@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="facebook_id" >191961824536514</string>
+
+    <string name="twitter_consumer_key">MgScJ4jo84rqSboKxsXxoQN89</string>
+    <string name="twitter_consumer_secret">yvUm961kzu0UjK8QjgzEe9SCfaB5TYaFbD4o4UDreNhvoEAd84</string>
+
+
+</resources>
